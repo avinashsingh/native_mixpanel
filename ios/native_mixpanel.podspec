@@ -17,6 +17,8 @@ A new flutter plugin project.
   s.dependency 'Flutter'
   s.dependency 'Mixpanel-swift', '2.4.5'
 
+  s.SWIFT_VERSION    = '4.1'
+
   s.ios.deployment_target = '8.0'
 end
 
